@@ -22,6 +22,12 @@ Here are a few projects I've worked on:
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefBouhdyd&layout=compact&theme=radical)
 
+## Codewars Profile
+![Codewars](https://www.codewars.com/users/Bouhdyd/badges/large)
+
+![Codewars Stats](https://github.r2v.ch/codewars?user=Bouhdyd&theme=dark)
+
+
 
 ## Get in Touch
 - **Email:** bouhdyd2004@gmail.com
