@@ -11,17 +11,19 @@ I'm a passionate software developer with a strong interest in open-source projec
 
 ## Projects
 Here are a few projects I've worked on:
-- [Project 1](https://github.com/YoussefBouhdyd/project1): A web application built with React and Node.js.
-- [Project 2](https://github.com/YoussefBouhdyd/project2): A machine learning project using Python and TensorFlow.
-- [Project 3](https://github.com/YoussefBouhdyd/project3): A mobile app developed with Java and Android Studio.
+
+- [Slice Haven](https://github.com/YoussefBouhdyd/slice-haven): A web application built with Js and Flask.
+- [Student-management](https://github.com/YoussefBouhdyd/Studuents-manegment): A Console Application build with C.
 
 ## GitHub Stats
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefBouhdyd&show_icons=true&theme=radical)
 
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefBouhdyd&layout=compact&theme=radical)
+
+
 ## Get in Touch
-- **Email:** youssef.bouhdyd@example.com
-- **LinkedIn:** [Youssef Bouhdyd](https://www.linkedin.com/in/youssefbouhdyd/)
-- **Twitter:** [@YoussefBouhdyd](https://twitter.com/YoussefBouhdyd)
+- **Email:** bouhdyd2004@gmail.com
 
 Feel free to reach out if you'd like to collaborate on a project or just want to chat about tech!
 
