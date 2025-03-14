@@ -25,7 +25,8 @@ Here are a few projects I've worked on:
 ## Codewars Profile
 ![Codewars](https://www.codewars.com/users/Bouhdyd/badges/large)
 
-![Codewars Stats](https://github.r2v.ch/codewars?user=Bouhdyd&theme=dark)
+![Codewars Stats](https://github.r2v.ch/codewars?user=Bouhdyd&theme=dark&hide_clan=true)
+
 
 
 
