@@ -13,7 +13,8 @@ I'm a passionate software developer with a strong interest in open-source projec
 Here are a few projects I've worked on:
 
 - [Slice Haven](https://github.com/YoussefBouhdyd/slice-haven): A web application built with Js and Flask.
-- [Student-management](https://github.com/YoussefBouhdyd/Studuents-manegment): A Console Application build with C.
+- [Student-management](https://github.com/YoussefBouhdyd/Studuents-manegment): A Console Application built with C.
+- [Dashboard](https://github.com/YoussefBouhdyd/Dashboard): A Beutiful Dashboard built with CSS and HTML.
 
 ## GitHub Stats
 ![Youssef's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoussefBouhdyd&show_icons=true&theme=radical)
