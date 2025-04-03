@@ -66,10 +66,8 @@ Here are a few projects I've worked on:
 ![Codewars Stats](https://github.r2v.ch/codewars?user=Bouhdyd&theme=dark&hide_clan=true)
 
 
-
-
 ## Get in Touch
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](bouhdyd2004@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bouhdyd2004@gmail.com)
 
 
 Feel free to reach out if you'd like to collaborate on a project or just want to chat about tech!
