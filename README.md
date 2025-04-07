@@ -22,6 +22,7 @@ I'm a passionate software developer with a strong interest in open-source projec
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
+![UML](https://img.shields.io/badge/UML-DC143C?style=for-the-badge&logoColor=white)
 
 ### Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
