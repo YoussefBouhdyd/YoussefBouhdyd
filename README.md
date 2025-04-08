@@ -5,9 +5,9 @@ I'm a passionate software developer with a strong interest in open-source projec
 
 ---
 
-## 🌟 Skills
+## 🚀 Skills
 
-### Languages
+### 🖥️ Languages
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -17,25 +17,28 @@ I'm a passionate software developer with a strong interest in open-source projec
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### Frameworks
+### 🧰 Frameworks
 <p align="center">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tkinter-FF6F00?style=for-the-badge&logo=python&logoColor=white"/>
 </p>
 
-### Tools
+### ⚒️ Tools
 <p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
   <img src="https://img.shields.io/badge/UML-DC143C?style=for-the-badge&logoColor=white"/>
 </p>
 
-### Databases
+### 🗄️ Databases
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/PL%2FSQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
+
+
+
 
 ---
 
